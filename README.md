@@ -10,7 +10,7 @@
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-2-Ekim-2021/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-2-Ekim-2021/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-2-Ekim-2021/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZYvcOCrqzsoE9LjyUwfI2VLhtfUHYS1RXv4)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022/blob/main/sss.md)
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZwvdu-urTorGdwErlOPUkMIjS1B7tsiQZoE)
