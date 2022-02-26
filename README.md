@@ -5,7 +5,7 @@
 + Kurs eğitmeni __Oğuz KARAN__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
-+ Kursun toplam ücreti KDV dahil 5.200 TL'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 4.700 TL 'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
++ Kurs ücreti KDV dahil__5.200 TL__'dir. Öğrenciler için KDV __4.700 TL__'dir. Kurs ücreti 2 taksit olarak ödenebilir.
 + 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022/blob/main/kurs_tanitimi.md)
