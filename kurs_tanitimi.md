@@ -28,7 +28,7 @@ Dersler hafta içi __Cumartesi - Pazar__ günleri saat __13:00-00 – 17-00__ sa
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-2-Ekim-2021/blob/main/kurs_icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022/blob/main/kurs_icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
