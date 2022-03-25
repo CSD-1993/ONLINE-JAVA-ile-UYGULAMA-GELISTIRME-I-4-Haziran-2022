@@ -1,4 +1,4 @@
-# JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022
+# ONLINE-JAVA-ile-UYGULAMA-GELISTIRME-I-28-Mayis-2022
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
 + Kurs __28 Mayıs 2022 Cumartesi__ günü başlayacaktır.
