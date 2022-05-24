@@ -1,12 +1,12 @@
 Java ile Uygulama Geliştirme (I)
 
 ## Yararlı sınıflar
-  + StringBuilder sınıfı
-  + BigDecimal sınıfı
-  + BigInteger sınıfı
-  + Arrays sınıfı
-  + Timer sınıfı
-  + Çeşiti yararlı sınıfların yazılması
+    + StringBuilder sınıfı
+    + BigDecimal sınıfı
+    + BigInteger sınıfı
+    + Arrays sınıfı
+    + Timer sınıfı
+    + Çeşiti yararlı sınıfların yazılması
 
 ## Özyineleme ve Özyinelemeli Algoritmalar
   + Özyineleme (recursion) kavramı
