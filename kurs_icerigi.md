@@ -129,9 +129,9 @@
     Spring REST servisler (JSON ve XML)
     Katmanlı mimari uygulamaları (Repository, Service ve Application katmanları)
     DTO (Data Transfer Object) tasarım kalıbı
-    Map Struct kütüphanesi
+    MapStruct kütüphanesi
     JDBC ile veritabanı işlemleri
-    Spring JPA ve Hibernate
+    Spring JPA ve Hibernate ile veritabanı işlemleri
     CrudRepository arayüzü
     JPARepository arayüzü
     PostgreSQL veritabanı, JPA, Hibernate kullanımı
