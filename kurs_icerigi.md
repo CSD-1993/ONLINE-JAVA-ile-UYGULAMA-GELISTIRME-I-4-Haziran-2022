@@ -16,7 +16,7 @@
     Örnek uygulamalar
 
 ## Bitsel operatörler ve bitsel işlemler
-    Bitsel operatörler (bitwise operations)
+    Bitsel operatörler (bitwise operators)
     Bitsel işlemlerin kullanımı 
     Tamsayının bitleri üzerinde yapılan işlemler (manipulation)
     Örnek uygulamalar
