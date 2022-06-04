@@ -106,7 +106,7 @@
 ## Maven 
     Maven build aracı kurulumu ve kullanımı
     Maven ile jar oluşturma ve kullanma
-    Mavenlocal repository
+    Maven local repository
     Maven remote repository oluşturma
     Maven central repository
     Örnekler
