@@ -6,7 +6,7 @@
     BigInteger sınıfı
     Arrays sınıfı
     Timer sınıfı
-    Çeşiti yararlı sınıfların yazılması
+    Çeşitli yararlı sınıfların yazılması
 
 ## Özyineleme ve Özyinelemeli Algoritmalar
     Özyineleme (recursion) kavramı
