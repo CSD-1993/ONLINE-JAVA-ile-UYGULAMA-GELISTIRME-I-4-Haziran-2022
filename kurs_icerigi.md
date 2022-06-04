@@ -45,10 +45,10 @@
     Reflection kullanarak çalışma zamanında eklenen jar dosyaları ile plugin oluşturma
     Örnek uygulamalar
 
-## İçiçe tür bildirimleri
-    Effectively final kavramı
+## İçiçe tür bildirimleri    
     Anonim sınıflar
     Anonim sınıfların değişkenleri yakalaması (capture)
+    Effectively final kavramı
     Yerel sınıflar (local classes)
     Sınıf içinde static sınıf bildirimi (nested classes)
     Sınıf içinde non-static sınıf bildirimi (inner classes)
